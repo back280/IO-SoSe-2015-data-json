@@ -12,23 +12,23 @@
     "title": "Algorithm",
     "image": "ldr-1.png",
     "thumb": "ldr-1-thumb.png",
-    "repo-url": "http://github.com/user/repo",
-    "abstract": " My rapture pants for your unsatisfied appetite. My seductive adoration attracts your winning infatuation. My  affection passionately clings to your amorous fellow feeling. My  longing fervently longs for your  passion. You are my loving rapture.\nYours tenderly,\nM.U.C."
+    "repo-url": "https://github.com/back280/IO-SoSe-2015-algorithm",
+    "abstract": ""
   },
   "slime": {
     "title": "Fox Moulder",
     "image": "ldr.png",
     "thumb": "ldr-thumb.png",
-    "repo-url": "http://github.com/user/repo",
-    "abstract": " My rapture pants for your unsatisfied appetite. My seductive adoration attracts your winning infatuation. My  affection passionately clings to your amorous fellow feeling. My  longing fervently longs for your  passion. You are my loving rapture.\nYours tenderly,\nM.U.C."
+    "repo-url": "https://github.com/back280/IO-SoSe-2015-fox-moulder",
+    "abstract": ""
   },
   "motor-poster": {
     "title": "Flip Board",
     "image": "ldr.png",
     "thumb": "ldr-thumb.png",
-    "repo-url": "http://github.com/user/repo",
+    "repo-url": "https://github.com/back280/IO-SoSe-2015-flip-board",
     "video-prototyp-url": "http://vimeo.com/1234567",
     "video-url": "http://vimeo.com/1234567",
-    "abstract": "My rapture pants for your unsatisfied appetite. My seductive adoration attracts your winning infatuation. My affection passionately clings to your amorous fellow feeling. My longing fervently longs for your passion. You are my loving rapture.\nYours tenderly,\nM.U.C"
+    "abstract": ""
   }
 }
