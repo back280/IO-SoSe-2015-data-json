@@ -20,7 +20,7 @@
     "image": "ldr.png",
     "thumb": "ldr-thumb.png",
     "repo-url": "https://github.com/back280/IO-SoSe-2015-fox-moulder",
-    "abstract": ""
+    "abstract": "As a result of our project we had to create a time lapse video of a growing mold, analyze it via OpenCv and generate a visual output."
   },
   "motor-poster": {
     "title": "Flip Board",
@@ -29,6 +29,6 @@
     "repo-url": "https://github.com/back280/IO-SoSe-2015-flip-board",
     "video-prototyp-url": "http://vimeo.com/1234567",
     "video-url": "http://vimeo.com/1234567",
-    "abstract": ""
+    "abstract": "Devise a motor poster of electronic scrap, that reacts on the viewers pasivlely action."
   }
 }
