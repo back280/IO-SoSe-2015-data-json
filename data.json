@@ -10,25 +10,26 @@
   ],
   "algorithm": {
     "title": "Algorithm",
-    "image": "ldr-1.png",
-    "thumb": "ldr-1-thumb.png",
+    "image": "algorithm.png",
+    "thumb": "algorithm-thumb.png",
     "repo-url": "https://github.com/back280/IO-SoSe-2015-algorithm",
     "abstract": "Our first challenge was to create a written instruction precise as much as possible, executed by ten different people, in order to generate an analog visual output."
   },
   "slime": {
     "title": "Fox Moulder",
-    "image": "ldr.png",
-    "thumb": "ldr-thumb.png",
+    "image": "fox_moulder.png",
+    "thumb": "fox_moulder-thumb.png",
     "repo-url": "https://github.com/back280/IO-SoSe-2015-fox-moulder",
+    "video-url": "https://vimeo.com/140404801",
     "abstract": "As a result of our project we had to create a time lapse video of a slime mold, analyzed with OpenCv and generate a visual output."
   },
   "motor-poster": {
     "title": "Flip Board",
-    "image": "ldr.png",
-    "thumb": "ldr-thumb.png",
+    "image": "flip_board.png",
+    "thumb": "flip_board-thumb.png",
     "repo-url": "https://github.com/back280/IO-SoSe-2015-flip-board",
-    "video-prototyp-url": "http://vimeo.com/1234567",
-    "video-url": "http://vimeo.com/1234567",
+    "video-prototyp-url": "https://vimeo.com/140693150",
+    "video-url": "https://vimeo.com/140819453",
     "abstract": "Devise a motor poster made of electronic scrap, that reacts on the viewers passive behavior."
   }
 }
