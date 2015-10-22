@@ -1,22 +1,22 @@
 {
   "author": "Paul Roemer",
   "github": "back280",
-  "url": "http://deine.online.praesenz.de/kann/sein/twitter/facebook/eigene-webiste",
+  "url": "https://incom.org/profil/5786",
   "contact":"emile80@gmx.de",
   "repos": [
-    "Algorithm",
-    "Fox Moulder",
-    "Flip Board"
+    "IO-SoSe-2015-algorithm",
+    "IO-SoSe-2015-fox-moulder",
+    "IO-SoSe-2015-flip-board"
   ],
   "algorithm": {
-    "title": "Algorithm",
+    "title": "IO-SoSe-2015-algorithm",
     "image": "algorithm.png",
     "thumb": "algorithm-thumb.png",
     "repo-url": "https://github.com/back280/IO-SoSe-2015-algorithm",
     "abstract": "Our first challenge was to create a written instruction precise as much as possible, executed by ten different people, in order to generate an analog visual output."
   },
   "slime": {
-    "title": "Fox Moulder",
+    "title": "IO-SoSe-2015-fox-moulder",
     "image": "fox_moulder.png",
     "thumb": "fox_moulder-thumb.png",
     "repo-url": "https://github.com/back280/IO-SoSe-2015-fox-moulder",
@@ -24,7 +24,7 @@
     "abstract": "As a result of our project we had to create a time lapse video of a slime mold, analyzed with OpenCv and generate a visual output."
   },
   "motor-poster": {
-    "title": "Flip Board",
+    "title": "IO-SoSe-2015-flip-board",
     "image": "flip_board.png",
     "thumb": "flip_board-thumb.png",
     "repo-url": "https://github.com/back280/IO-SoSe-2015-flip-board",
